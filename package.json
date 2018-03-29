@@ -1,0 +1,21 @@
+{
+  "name": "tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "try.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "0.2.2",
+    "botkit-storage-mongo": "^1.0.2",
+    "cron": "^1.3.0",
+    "lodash": "^4.17.4",
+    "lodash.isequal": "^4.5.0",
+    "mongodb": "^1.4.39",
+    "underscore": "^1.8.3"
+  }
+}
